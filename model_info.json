@@ -207,5 +207,5 @@
   "cv_std_rmse": 0.7708,
   "cv_mean_mae": 15.154,
   "cv_mean_r2": 0.7245,
-  "scikit_learn_version": "1.8.0"
+  "scikit_learn_version": "1.6.1"
 }
